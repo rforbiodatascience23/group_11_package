@@ -1,0 +1,18 @@
+Package: dogma11
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Authors@R:
+  c(person(given = "Orla",
+           family = "McGinnity",
+           role = c("aut", "cre"), # There must be a "cre", but there can only be one
+           email = "s204760@student.dtu.dk"
+    person(given = "Alex",
+           family = "Palade",
+           role = "aut",
+           email = "s215179@student.dtu.dk"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Will replicate the central dogma of molecular biology.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
