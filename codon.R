@@ -14,4 +14,3 @@ codon <- c("UUU" = "F", "UCU" = "S", "UAU" = "Y", "UGU" = "C",
   "GUC" = "V", "GCC" = "A", "GAC" = "D", "GGC" = "G",
   "GUA" = "V", "GCA" = "A", "GAA" = "E", "GGA" = "G",
   "GUG" = "V", "GCG" = "A", "GAG" = "E", "GGG" = "G")
-
